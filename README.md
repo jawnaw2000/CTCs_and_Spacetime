@@ -7,13 +7,16 @@ Geometric “fold” transformations applied to lattice bases can restructure th
 📌 Baseline
 Random lattice basis
 Measure shortest vector / combination BEFORE folding
+
 📌 Intervention
 Apply fold operator (your origami idea)
+
 📌 Success Criteria
 Folded lattice produces:
 Shorter vectors
 More consistent structure
 Improved detection of small combinations
+
 📌 Metrics
 Shortest vector length
 Improvement rate
